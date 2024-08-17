@@ -1,0 +1,15 @@
+/*
+ videos
+    Filme.java                                          
+    Serie.java
+    Anime.java
+    Novela.java
+    Documentario.java
+gui
+    Janela.java
+    MiniaturaVideo.java
+    botoes/
+        BotaoPlay.java
+        BotaoPause.java
+        BotaoVoltar.java
+ */
